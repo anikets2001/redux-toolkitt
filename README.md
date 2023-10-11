@@ -12,4 +12,4 @@ step 2: Create Your components
 step 3: Create a folder 'Store -> Slices -> firstSlice.jsx'
 step 4: Inside Store Create a index.js file for state 
 step 5: Slice is a part of store (store is made up of many slices)
-# redux-toolkitt
+# redux-toolkit
